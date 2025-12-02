@@ -339,6 +339,7 @@ def run_optimization(transition_matrix: np.ndarray,
     }
 
 
+# ==================== EXAMPLE USAGE ====================
 
 if __name__ == "__main__":
     
